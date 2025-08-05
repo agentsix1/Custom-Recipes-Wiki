@@ -2,7 +2,8 @@ site_name: Custom Recipes Wiki
 nav:
   - Home: index.md
   - Getting Started: getting-started.md
-  - Configuration: configuration.md
+  - Configuration:
+    - Sections: configuration.md
     - Crafting: ./configuration/crafting/index.md
     - Smelting: ./configuration/smelting/index.md
     - Blasting: ./configuration/blasting/index.md
