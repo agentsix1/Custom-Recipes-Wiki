@@ -1,6 +1,6 @@
 site_name: Custom Recipes Wiki
 nav:
-  - Home: index.md
+  - Home:
     - Home: index.md
   - About: about.md
 theme:
