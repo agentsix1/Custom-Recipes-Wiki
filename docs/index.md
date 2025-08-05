@@ -1,3 +1,7 @@
+![logo](./images/Diorite.png)
+
+
+
 # Welcome to Custom Recipes Wiki!
 
 ## Commands
