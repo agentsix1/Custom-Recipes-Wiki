@@ -1,7 +1,7 @@
 <p align="center">
     <img src="./images/Diorite.png"/>
 </p>
-<p align="center" style="size: 20">
+<p align="center" style="font-size: 26px">
     Custom Recipes
 </p>
 <p align="center" style="color: gray; font-weight: bold">
