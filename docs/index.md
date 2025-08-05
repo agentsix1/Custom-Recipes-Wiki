@@ -1,4 +1,4 @@
-<center>![logo](./images/Diorite.png)</center>center>
+<center>![logo](./images/Diorite.png)</center>
 
 
 
