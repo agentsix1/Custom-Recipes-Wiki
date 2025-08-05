@@ -56,7 +56,7 @@
     </p>
 </p>
   <div class="download-box">
-    <a href="https://github.com/agentsix1/Custom-Recipes/releases/" class="download-button" style="color: white">⬇ Download</a>
+    <a href="https://modrinth.com/plugin/custom-mc-recipies/versions" class="download-button" style="color: white">⬇ Download</a>
     <div class="version">v0.1</div>
     <div class="mc-ver">
       Supports Minecraft Version 1.13+
