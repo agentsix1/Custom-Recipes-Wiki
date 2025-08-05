@@ -9,3 +9,4 @@
 - Add ability to customize the output the crafted item. Including lores, names, and enchants
 - Add ability to global announce when someone makes a certain item
 - Add ability to permission required announce when someone makes a certain item
+- Add a basic api to add, remove, or remove a recipe
