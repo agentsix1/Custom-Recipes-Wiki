@@ -1,3 +1,41 @@
+<style>
+    body {
+      font-family: Arial, sans-serif;
+      color: #333;
+    }
+
+    .download-box {
+      text-align: center;
+    }
+
+    .download-button {
+      background-color: #37978f; /* cyan from image */
+      padding: 20px 40px;
+      border-radius: 6px;
+      color: #000;
+      font-weight: bold;
+      font-size: 24px;
+      text-decoration: none;
+      display: inline-block;
+      transition: background-color 0.3s ease;
+    }
+
+    .download-button:hover {
+      background-color: #55b3ab; /* lighter cyan on hover */
+    }
+
+    .version {
+      margin-top: 5px;
+      font-size: 16px;
+      color: #000;
+    }
+
+    .support-text {
+      margin-top: 15px;
+      font-size: 14px;
+      color: #666;
+    }
+</style>
 <p align="center">
     <img src="./images/Diorite.png"/>
 </p>
@@ -7,3 +45,13 @@
         A custom recipes plugin for Minecraft servers
     </p>
 </p>
+  <div class="download-box">
+    <a href="#" class="download-button">⬇ Download</a>
+    <div class="version">v5.5.10</div>
+    <div class="support-text">
+      Supports Bukkit/Spigot/Paper, BungeeCord,<br>
+      Sponge, Fabric, Forge, NeoForge, Nukkit and<br>
+      Velocity servers
+    </div>
+  </div>
+
