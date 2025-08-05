@@ -42,7 +42,7 @@
     }
     .mc-ver {
       margin-top: 15px;
-      font-size: 14px;
+      font-size: 12px;
       color: gray;
     }
 </style>
@@ -59,7 +59,7 @@
     <a href="https://github.com/agentsix1/Custom-Recipes/releases/" class="download-button" style="color: white">⬇ Download</a>
     <div class="version">v0.1</div>
     <div class="mc-vers">
-      Supports 1.13+
+      Supports Minecraft Version 1.13+
     </div>
     <div class="support-text">
       Supports Bukkit, Spigot, Paper, and<br>
