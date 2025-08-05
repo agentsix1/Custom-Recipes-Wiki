@@ -1,8 +1,12 @@
 site_name: Custom Recipes Wiki
 nav:
-  - Home:
-    - Home: index.md
-  - About: about.md
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - Configuration: configuration.md
+  - Command Usage: command-usage.md
+  - Other:
+    - Future Ideas: ideas.md
+    - Credits: credits.md
 theme:
   name: material
   palette:
