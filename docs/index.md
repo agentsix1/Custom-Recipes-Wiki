@@ -46,7 +46,7 @@
     </p>
 </p>
   <div class="download-box">
-    <a href="#" class="download-button">⬇ Download</a>
+    <a href="#" class="download-button" style="color: white">⬇ Download</a>
     <div class="version">v5.5.10</div>
     <div class="support-text">
       Supports Bukkit/Spigot/Paper, BungeeCord,<br>
