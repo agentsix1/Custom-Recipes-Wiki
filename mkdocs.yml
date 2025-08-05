@@ -4,7 +4,13 @@ nav:
   - Getting Started: getting-started.md
   - Configuration: configuration.md
   - Command Usage: command-usage.md
+  - FAQ: faq.md
+  - Recipes:
+    - Crafting:
+    - Smelting:
+    - Blasting:
   - Other:
+    - Change Log: changes.md
     - Future Ideas: ideas.md
     - Credits: credits.md
 theme:
