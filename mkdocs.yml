@@ -3,12 +3,15 @@ nav:
   - Home: index.md
   - Getting Started: getting-started.md
   - Configuration: configuration.md
-  - Command Usage: command-usage.md
-  - FAQ: faq.md
-  - Recipes:
     - Crafting: ./configuration/crafting/index.md
     - Smelting: ./configuration/smelting/index.md
     - Blasting: ./configuration/blasting/index.md
+  - Command Usage: command-usage.md
+  - FAQ: faq.md
+  - Recipes:
+    - Crafting: ./recipes/crafting/index.md
+    - Smelting: ./recipes/smelting/index.md
+    - Blasting: ./recipes/blasting/index.md
   - Other:
     - Change Log: changes.md
     - Future Ideas: ideas.md
