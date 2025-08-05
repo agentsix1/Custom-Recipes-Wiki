@@ -41,7 +41,7 @@
     }
 </style>
 <p align="center">
-    <img src="./images/Diorite.png"/>
+    <img src="./images/diorite.png"/>
 </p>
 <p align="center" style="color: white; font-size: clamp(30px, 5vw, 54px); font-weight: bold; line-height: 0.1;">
     Custom Recipes
