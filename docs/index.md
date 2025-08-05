@@ -41,7 +41,7 @@
 </p>
 <p align="center" style="color: white; font-size: 56px; font-weight: bold; line-height: 0.1;">
     Custom Recipes
-    <p align="center" style="color: gray; font-size: 18px; line-height: 0.1;">
+    <p align="center" style="color: gray; font-size: 18px; line-height: 0.2;">
         A custom recipes plugin for Minecraft servers
     </p>
 </p>
