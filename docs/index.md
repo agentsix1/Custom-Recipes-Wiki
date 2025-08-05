@@ -29,7 +29,11 @@
       font-size: 16px;
       color: #fff;
     }
-
+    .dev-download {
+      margin-top: 15px;
+      font-size: 14px;
+      color: gray;
+    }
     .support-text {
       margin-top: 15px;
       font-size: 14px;
@@ -47,6 +51,9 @@
 </p>
   <div class="download-box">
     <a href="https://github.com/agentsix1/Custom-Recipes/releases/" class="download-button" style="color: white">⬇ Download</a>
+    <div class="dev-download">
+        <a href="https://github.com/agentsix1/Custom-Recipes/actions/workflows/maven.yml">Developmental Downloads</a>
+    </div>
     <div class="version">v0.1</div>
     <div class="support-text">
       Supports Bukkit, Spigot, Paper, and<br>
