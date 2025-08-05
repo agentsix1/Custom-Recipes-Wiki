@@ -4,6 +4,6 @@
 <p align="center" style="font-size: 56px; font-weight: bold;">
     Custom Recipes
     <span style="color: gray; font-size: 18px">
-        </br>A custom recipes plugin for Minecraft servers
+        A custom recipes plugin for Minecraft servers
     </span>
 </p>
