@@ -1,15 +1,6 @@
-<img style="align: center;" src="./images/Diorite.png" />
-
-
-# Welcome to Custom Recipes Wiki!
-
-## Commands
-
-* `mkdocs restart` - Some bullshit command i added
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+<p align="center">
+    <img src="./images/Diorite.png"/>
+</p>
+<p align="center" style="color: gray">
+    A Custom Recipes plugin for Minecraft servers
+</p>
