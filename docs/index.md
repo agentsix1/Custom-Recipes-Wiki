@@ -1,4 +1,4 @@
-<p style="text-align: center;"><img src="./images/Diorite.png" /></p>
+<p style="text-align: center; align: center;"><img src="./images/Diorite.png" /></p>
 
 
 
