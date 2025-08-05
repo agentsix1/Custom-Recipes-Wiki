@@ -6,9 +6,9 @@ nav:
   - Command Usage: command-usage.md
   - FAQ: faq.md
   - Recipes:
-    - Crafting:
-    - Smelting:
-    - Blasting:
+    - Crafting: /crafting/index.md
+    - Smelting: /smelting/index.md
+    - Blasting: /blasting/index.md
   - Other:
     - Change Log: changes.md
     - Future Ideas: ideas.md
