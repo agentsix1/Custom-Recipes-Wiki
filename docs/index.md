@@ -1,9 +1,9 @@
 <p align="center">
     <img src="./images/Diorite.png"/>
 </p>
-<p align="center" style="font-size: 56px; font-weight: bold; line-height: 0.4;">
+<p align="center" style="font-size: 56px; font-weight: bold; line-height: 0.3;">
     Custom Recipes
-    <p align="center" style="color: gray; font-size: 18px">
+    <p align="center" style="color: gray; font-size: 18px; line-height: 0.3;">
         A custom recipes plugin for Minecraft servers
     </p>
 </p>
