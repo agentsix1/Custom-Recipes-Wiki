@@ -1,5 +1,4 @@
-<p style="text-align: center; align: center;"><img src="./images/Diorite.png" /></p>
-
+<img style="align: center;" src="./images/Diorite.png" />
 
 
 # Welcome to Custom Recipes Wiki!
