@@ -1,7 +1,6 @@
 <style>
     body {
       font-family: Arial, sans-serif;
-      color: #333;
     }
 
     .download-box {
@@ -12,7 +11,7 @@
       background-color: #37978f; /* cyan from image */
       padding: 20px 40px;
       border-radius: 6px;
-      color: #000;
+      color: #fff;
       font-weight: bold;
       font-size: 24px;
       text-decoration: none;
@@ -22,18 +21,19 @@
 
     .download-button:hover {
       background-color: #55b3ab; /* lighter cyan on hover */
+      color: white;
     }
 
     .version {
       margin-top: 5px;
       font-size: 16px;
-      color: #000;
+      color: #fff;
     }
 
     .support-text {
       margin-top: 15px;
       font-size: 14px;
-      color: #666;
+      color: #fff;
     }
 </style>
 <p align="center">
