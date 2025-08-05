@@ -1,4 +1,4 @@
-usite_name: Custom Recipes Wiki
+site_name: Custom Recipes Wiki
 nav:
   - Home: index.md
   - About: about.md
