@@ -6,3 +6,6 @@
 - Add a command to create recipes on the fly
 - Add a command to remove recipes on the fly
 - Add ability to support other things such as stone cutter, fletcher table, and anything else
+- Add ability to customize the output the crafted item. Including lores, names, and enchants
+- Add ability to global announce when someone makes a certain item
+- Add ability to permission required announce when someone makes a certain item
