@@ -18,6 +18,7 @@ nav:
     - Credits: credits.md
 theme:
   name: material
+  logo: images/diorite.png
   palette:
     scheme: slate
     primary: teal
