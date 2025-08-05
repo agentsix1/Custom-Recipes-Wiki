@@ -1,3 +1,6 @@
+# Minor Change
+- Added recipe for tnt using paper The recipe can be found [Here](./configuration/crafting/index.md)
+
 # Version 0.1
 - Added support for Crafting, Smelting, and Blasting
 - Added support for shapeless and shaped crafting
