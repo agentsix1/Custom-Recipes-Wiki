@@ -42,8 +42,8 @@
     }
     .mc-ver {
       margin-top: 15px;
-      font-size: 12px;
-      color: gray;
+      font-size: 14px;
+      color: light gray;
     }
 </style>
 <p align="center">
