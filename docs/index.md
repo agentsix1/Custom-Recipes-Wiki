@@ -57,7 +57,7 @@
       Folia servers
     </div>
     <div class="dev-download">
-        <a href="https://github.com/agentsix1/Custom-Recipes/actions/workflows/maven.yml">Developmental Downloads</a>
+        <a href="https://github.com/agentsix1/Custom-Recipes/actions/workflows/maven.yml">developmental builds</a>
     </div>
   </div>
 
