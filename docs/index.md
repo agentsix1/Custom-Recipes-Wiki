@@ -2,8 +2,8 @@
     <img src="./images/Diorite.png"/>
 </p>
 <p align="center" style="font-size: 56px; font-weight: bold;">
-    Custom Recipes</br>
+    Custom Recipes
     <span style="color: gray; font-size: 18px">
-        A custom recipes plugin for Minecraft servers
+        </br>A custom recipes plugin for Minecraft servers
     </span>
 </p>
