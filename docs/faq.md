@@ -2,7 +2,7 @@
 **A:** Currently this plugin supports Minecraft 1.13+
 
 ## Q: Are you open to new ideas?
-**A:** Always! If you have an idea for this plugin, hop over to the [issues](https://github.com/agentsix1/Custom-Recipes/issues) on GitHub and drop it there. It'sq the catch all for issues, questions, or ideas!
+**A:** Always! If you have an idea for Custom Recipes, hop over to the [issues](https://github.com/agentsix1/Custom-Recipes/issues) on GitHub and drop it there. It's the catch all for issues, questions, or ideas!
 
 ## Q: How do I add my own recipes?
 **A:** For information on adding recipes go to the [Configuration](../configuration) section of this Wiki.
