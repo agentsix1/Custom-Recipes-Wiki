@@ -1,3 +1,6 @@
+## Q: What version of Minecraft does Custom Recipes support?
+**A:** Currently this plugin supports Minecraft 1.13+
+
 ## Q: Are you open to new ideas?
 **A:** Always! If you have an idea for this plugin, hop over to the [issues](https://github.com/agentsix1/Custom-Recipes/issues) on GitHub and drop it there. It'sq the catch all for issues, questions, or ideas!
 
