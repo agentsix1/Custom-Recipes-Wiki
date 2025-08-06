@@ -9,7 +9,7 @@ Information regarding the adding or removing of recipes can be found in the [Con
 All changes to the recipes require a reload *(not recommended)* or a server restart. New recipes will not be added or removed in any other way
 
 ## Commands Usage
-As of the release of v0.1, no commands are associated with this plugin. I do have plans to change this in the future. But at this time, there are none.
+As of the release of v0.1, no commands are associated with this plugin. I do have plans to change this in the [future](../ideas).
 
 ## What Recipes Come By Default?
 I would highly suggest checking out the [Recipes](../recipes) section on this Wiki. I have posted all of the [recipes](../recipes) that this plugin has by default.
