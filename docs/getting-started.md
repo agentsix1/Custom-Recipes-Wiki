@@ -13,8 +13,10 @@ As of the release of v0.1, no commands are associated with this plugin. I do hav
 
 ## What Recipes Come By Default?
 I would highly suggest checking out the Recipes section on this Wiki. I have posted all of the recipes that this plugin has by default.
+
 *Note: The default recipes can be removed or modified with ease by simply modifying the yml files found in the plugin folder!*
 
 ## Have Questions or Issues?
 If you have any further questions or issues that are not answered within this Wiki. I would suggest going over to the [Issues](https://github.com/agentsix1/Custom-Recipes/issues) section of our [GitHub](https://github.com/agentsix1/Custom-Recipes) and creating an [Issue](https://github.com/agentsix1/Custom-Recipes/issues). I hope to get back to you in a timely manner.
-*Note: This does require you to have a GitHub account. It's fairly straightforward to create a GitHub account.
+
+*Note: This does require you to have a GitHub account. It's fairly straightforward to create a GitHub account.*
