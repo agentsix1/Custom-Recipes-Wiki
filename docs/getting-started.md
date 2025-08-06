@@ -1,7 +1,7 @@
-# Usage
+## Usage
 This guide is intended for people who have not used datapacks/other plugins to incorporate additional recipes into Minecraft. Even if you have it may still be useful to follow this guide, as this plugin doesn't work the same way as others do. If you are new to using yml files. I would highly suggest seeking out the [How To Use a YML](../how-to-use-a-yml) section on this Wiki.
 
-# Getting Started
+## Getting Started
 <font color="red" style="font-style: italic">If you have not yet installed this plugin on your server. Please follow the <a href="../install-guide">Installation Guide</a>.</font>
 
 ## Creating/Removing Recipes
