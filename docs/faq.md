@@ -7,8 +7,7 @@
 ## Q: How do I add my own recipes?
 **A:** For information on adding recipes go to the [Configuration](../configuration) section of this Wiki.
 
-## Q: 
-Do I have to use the default recipes?
+## Q: Do I have to use the default recipes?
 **A:** No, you can remove the default recipes. For more information on this. Go to the [Configuration](../configuration) section of the Wiki.
 
 ## Q: What do you plan to add to the plugin in the future?
