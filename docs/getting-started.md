@@ -12,7 +12,7 @@ All changes to the recipes require a reload *(not recommended)* or a server rest
 As of the release of v0.1, no commands are associated with this plugin. I do have plans to change this in the future. But at this time, there are none.
 
 ## What Recipes Come By Default?
-I would highly suggest checking out the Recipes section on this Wiki. I have posted all of the recipes that this plugin has by default.
+I would highly suggest checking out the [Recipes](../recipes) section on this Wiki. I have posted all of the [recipes](../recipes) that this plugin has by default.
 
 *Note: The default recipes can be removed or modified with ease by simply modifying the yml files found in the plugin folder!*
 
