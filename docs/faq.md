@@ -12,6 +12,6 @@ Do I have to use the default recipes?
 **A:** All of my ideas for this plugin are located [Here](../ideas).
 
 
-<p align="right" style="font-style: italic; color: gray>
+<p align="right" style="font-style: italic; color: gray">
     Updated: Aug 6th 2025
 </p>
