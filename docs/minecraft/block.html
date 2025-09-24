@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Minecraft Block Generator</title>
+</head>
+<body>
+<script>
+(async function() {
+  // --- Parse GET parameters ---
+  const params = new URLSearchParams(window.location.search);
+  const width = parseInt(params.get('width')) || 64;
+  const height = parseInt(params.get('height')) || 64;
+  const imgUrl = params.get('img');
+
+  // --- Create offscreen canvas ---
+  const canvas = document.createElement('canvas');
+  canvas.width = width;
+  canvas.height = height;
+  const ctx = canvas.getContext('2d');
+
+  // --- Load image ---
+  const loadImage = (src) => new Promise(resolve => {
+    const img = new Image();
+    img.crossOrigin = "anonymous"; // allow cross-origin images
+    img.onload = () => resolve(img);
+    img.onerror = () => {
+      console.error("Failed to load image:", src);
+      resolve(null);
+    };
+    img.src = src;
+  });
+
+  const texture = await loadImage(imgUrl);
+  if (!texture) {
+    alert("Failed to load image. Please check the URL.");
+    return;
+  }
+
+  const size = canvas.width / 4;
+  const centerX = canvas.width / 2;
+  const centerY = size;
+
+  // --- Top face ---
+  ctx.save();
+  ctx.setTransform(1, -0.5, 1, 0.5, centerX - size/2 - size / 1.97, centerY - size/2);
+  ctx.drawImage(texture, 0, 0, size, size);
+  ctx.restore();
+
+  // --- Left face ---
+  ctx.save();
+  ctx.setTransform(1, 0.5, 0, 1, centerX - size, centerY - size/1.97);
+  ctx.drawImage(texture, 0, 0, size, size);
+  ctx.restore();
+
+  // --- Right face ---
+  ctx.save();
+  ctx.setTransform(1, -0.5, 0, 1, centerX - size*0.009375, centerY - size*0.009375);
+  ctx.drawImage(texture, 0, 0, size, size);
+  ctx.restore();
+
+  // --- Trigger download ---
+  const link = document.createElement('a');
+  link.download = 'minecraft_block.png';
+  link.href = canvas.toDataURL('image/png');
+  document.body.appendChild(link);
+  link.click();
+  document.body.removeChild(link);
+
+  // Clear page
+  document.body.innerHTML = '';
+})();
+</script>
+</body>
+</html>
